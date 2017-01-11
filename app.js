@@ -1,5 +1,5 @@
-function log(){
+function log(str){
     console.log("This is app.js file");
 }
 
-log();
+log("This is log");
